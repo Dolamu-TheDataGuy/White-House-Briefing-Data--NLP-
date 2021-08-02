@@ -13,8 +13,5 @@ This is a basic project that uses scraped data from the white housing press brie
 
 - Matplotlib
 
->Local Development
 
-
-Lets Go!!!!!
 
